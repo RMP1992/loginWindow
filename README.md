@@ -4,7 +4,7 @@ This is a replica of the login of a company. Front end challenge only.
 
 ## Issues
 
-So apparently I can use the "for" attribute on the labels, I have to use "htmlFor".
+So apparently I can't use the "for" attribute on the labels, I have to use "htmlFor".
 
 
 

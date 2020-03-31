@@ -1,3 +1,18 @@
+# Description
+
+This is a replica of the login of a company. Front end challenge only.
+
+## Issues
+
+So apparently I can use the "for" attribute on the labels, I have to use "htmlFor".
+
+I added an extra feature this login app, when the user clicks the sign in button the password input is displayed, this did require a few failed attempts, but Google is a very realiable friend.
+
+It was kind of taxing trying to work with media queries, I realised that vh or vw change their size more smothly than px.
+
+Unfortunately I have ran out of time to finish the checkbox, it is supposed to turn blue once it is clicked, I couldn't figure out how, I tried a few examples with some animation but nothing was working, I was concious of time so I decided to focus on what I knew I could do.
+
+------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts

@@ -1,0 +1,29 @@
+
+.heading{
+    color: #4c494b;
+    margin: 0;
+    margin-bottom: 5px;
+}
+.sub-heading{
+    color: rgb(180, 176, 180);
+    font-weight: lighter;
+    margin: 0;
+}
+@media (max-width: 300px){
+    .heading{
+      font-size: 6vw;
+      margin-bottom: 2vh;
+    }
+    .sub-heading{
+        font-size: 4vw;
+    }
+}
+@media (max-width: 900px){
+    .heading{
+        font-size: 6vw;  
+        margin-bottom: 2vh;
+    }
+    .sub-heading{
+        font-size: 4vw;
+    }
+  }

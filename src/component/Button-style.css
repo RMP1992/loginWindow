@@ -1,0 +1,46 @@
+.submit-btn{
+    
+    border-radius: 5px;
+    width: 7vw;
+    height: 7vh;
+    background-color: white;
+    border: solid 1px #e9e8e8;
+}
+.checkbox-container{
+  display: flex;
+  align-items: center;
+  margin-top: 10px;
+  margin-bottom: 30px;
+
+}
+.checkbox-label{
+  font-size: 12px;
+}
+
+@media (max-width: 300px){
+    .submit-btn{
+      width: 20vw;
+      height: 10vh;
+      font-size: 3vw;
+    }
+    .checkbox{
+      width: 2vw;
+    
+    }
+    .checkbox-label{
+      font-size: 2vw;
+    }
+  }
+  @media (max-width: 900px){
+    .submit-btn{
+      width: 20vw;
+      height: 10vh;
+      font-size: 3vw;
+    }
+    .checkbox{
+      width: 2vw;
+    }
+    .checkbox-label{
+      font-size: 2vw;
+    }
+  }

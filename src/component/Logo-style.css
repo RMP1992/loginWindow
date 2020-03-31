@@ -1,0 +1,19 @@
+.logo{
+    width: 8vw;
+    margin-bottom: 3vh;
+}
+
+@media (max-width: 300px){
+    .logo{
+      width: 40vw;
+      margin-top: 10vh;
+      margin-bottom: 6vh;
+    }
+}
+@media (max-width: 900px){
+    .logo{
+      width: 40vw;
+      margin-top: 10vh;
+      margin-bottom: 6vh;
+    }
+}

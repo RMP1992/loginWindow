@@ -11,7 +11,7 @@ const Button = (props) =>{
     
             </div> 
             <div>
-                <button type="submit" className="submit-btn" onClick={props.func}>{props.button}</button>
+                <button type="submit" className="submit-btn">{props.button}</button>
             </div>
         </React.Fragment>
         

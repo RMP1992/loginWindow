@@ -6,7 +6,7 @@ This is a replica of the login of a company. Front end challenge only.
 
 So apparently I can use the "for" attribute on the labels, I have to use "htmlFor".
 
-I added an extra feature this login app, when the user clicks the sign in button the password input is displayed, this did require a few failed attempts, but Google is a very realiable friend.
+
 
 It was kind of taxing trying to work with media queries, I realised that vh or vw change their size more smothly than px.
 

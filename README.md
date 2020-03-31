@@ -8,7 +8,7 @@ So apparently I can't use the "for" attribute on the labels, I have to use "html
 
 
 
-It was kind of taxing trying to work with media queries, I realised that vh or vw change their size more smothly than px.
+It was kind of taxing trying to work with media queries, I realised that vh or vw change their size more smoothly than px.
 
 Unfortunately I have ran out of time to finish the checkbox, it is supposed to turn blue once it is clicked, I tried a few examples with some animation but nothing was working, I was concious of time so I decided to focus on what I knew I could do.
 
